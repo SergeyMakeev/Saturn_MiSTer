@@ -9,6 +9,7 @@ name: Release (Single and Dual SDRAM)
 # git tag 20221231
 # git push origin --tags
 ################################################################################
+## trigger build
 on:
   push:
     tags:
